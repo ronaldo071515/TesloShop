@@ -27,4 +27,4 @@ http://localhost:3000/api/seed
 
 
 ### Documentacion de la API
-<a hrfe="https://documenter.getpostman.com/view/7908350/2s8YekQa53#afde3e56-c682-4fc3-b19f-10ed95e4d07d" target="__blanck">Ver Documentación en postman</a>
+<a hrfe="https://documenter.getpostman.com/view/7908350/2s8YekQa53#afde3e56-c682-4fc3-b19f-10ed95e4d07d" target="__blank">Ver Documentación en postman</a>
